@@ -1,0 +1,2 @@
+Avec requete on peut lire toutes les données de la requete , que ça soit les entétes ou le corps de la requete.
+Avec response on peut envoyer les réponses http(l'entete de la reponse et le corps de la reponse).

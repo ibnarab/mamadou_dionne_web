@@ -1,0 +1,20 @@
+
+							-----General-------
+
+1-On cree une application qui va permettre d'écouler les marchandises des producteurs agricoles plus rapidement.
+2-Pour cela on met on présente un tableau qui énumére l'offre des vendeurs et la demande des acheteurs.
+3-La mise en relation entre le vendeur et l'acheteur se fait par l'intermédiaire du propriétaire de l'application. 
+
+
+						-----fonctionnalités techniques des comptes----------
+
+1-On doit creer un compte pour le vendeur , pour l'acheteur et l'administrateur.
+2-Pour le compte vendeur :
+	-Il faudra que le vendeur paye pour l'ouverture de son compte dans le but de vendre ses produits.
+	-Dans le compte il yaura nom , prenom , numero , localisation et geolocalisation.
+3-Pour le compte acheteur(pareil)
+4-Pour le compte administrateur:il pourra voir toutes les informations du vendeur et de l'acheteur
+
+						-----informations à poster--------
+1-vendeur:type produit,quantité,prix,date disponibilité
+2-acheteur:produit qu'il veut acheter,quantité,prix

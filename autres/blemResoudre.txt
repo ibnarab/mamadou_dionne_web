@@ -1,0 +1,30 @@
+
+2-Page connexion : resoudre la responsivité du formulaire
+3-Page inscription : resoudre la responsivité du formulaire
+4-Page accueil : resoudre la responsivité du bloc d'image
+6-background-color
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

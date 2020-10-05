@@ -1,0 +1,42 @@
+Angular est basé sur les web components.
+
+Angular permet de creer des singles pages application.
+Le fichier package.json contient toutes les dépendances du projet.
+
+ng serve --open : pour lancer le serveur
+
+				----------Structure du projet angular--------
+e2e:Fichier de configuration du projet.
+node_modules:Dépendances externes du projet.
+app:Logique applicative du projet:Les composants,les services....On va bcp l'utiliser.
+	app.component.html représente la vue
+	app.component.ts représente le modéle ou il ya toutes les données qui s'affiche au niveau de la vue.
+
+
+				----------app.module.ts------------
+
+Un module c'est une classe
+Le export signifie que la classe peut etré réutilisé dans d'autres modules.
+La classe doit etre précédé par un décorateur.
+ya exple le module ngModule qui contient: 
+-les déclarations ou on déclare tous les composents qu'on crée.
+-imports : les autres modules qu'on a importer
+-provivers:déclaration des services.
+
+Les services feront tous les traitements de l'application : coté front et back.
+Les components par contre représente la logique de l'application c'est a dire ce qu'on affiche.
+
+-bootstrap:montre le component qui va démarrer en premier lieu.
+
+
+Nb :Le fichier tslint.json contient les régles dans le code ou il ya rules on peut les supprimer.
+
+				------------app.component.ts-----------
+
+A l'interieur de la classe on déclare des données qu'on pourra réutilisé dans le component.html.
+Il est précédé par le décorateur component:
+-Selector représente le nom de la balise qu'on peut utiliser pour insérer le composant dans la partie html
+
+Voir debut video3 pour l'installation de bootsratp dans le projet
+Regarder aussi les formulaires
+

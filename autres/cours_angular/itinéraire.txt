@@ -1,0 +1,2 @@
+1-Installer bootstrap
+2-Creer les comptes clients et acheteur
